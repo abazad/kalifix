@@ -1,0 +1,4 @@
+	0. Search Your Bug
+	1. E: Unable to locate package linux-headers-4.6.0-kali1-amd64
+	2. E: Couldn't find any package by glob 'linux-headers-4.6.0-kali1-amd64'
+	3. E: Couldn't find any package by regex 'linux-headers-4.6.0-kali1-amd64'

@@ -1,0 +1,7 @@
+	0. Search Application
+	1. VirtualBox
+	2. ccd2iso
+	3. gparted
+	4. tmux
+	5. metasploit-framework
+	6. Social Engineer Toolkit
